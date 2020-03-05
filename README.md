@@ -27,7 +27,7 @@
   [GitHub](http://github.com
   
   ### BlockQuotes
-   kanye west said:
-     >  the present is our past.
+   The Legend once said
+   > "life is like a lemon under the tractor.
   
   
