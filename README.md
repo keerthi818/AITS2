@@ -28,6 +28,6 @@
   
   ### BlockQuotes
    kanye west said:
-     >  "the present is our past"
+     >  the present is our past.
   
   
