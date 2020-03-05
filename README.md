@@ -27,7 +27,7 @@
   [GitHub](http://github.com
   
   ### BlockQuotes
-  as kanye west said:
-     >"the present is our past"
+   kanye west said:
+     >  "the present is our past"
   
   
